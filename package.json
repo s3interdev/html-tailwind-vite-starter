@@ -1,0 +1,20 @@
+{
+	"name": "html-tailwind-vite-starter",
+	"private": true,
+	"version": "0.1.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"@tailwindcss/forms": "^0.5.2",
+		"autoprefixer": "^10.4.8",
+		"postcss": "^8.4.16",
+		"prettier": "^2.7.1",
+		"prettier-plugin-tailwindcss": "^0.1.13",
+		"tailwindcss": "^3.1.8",
+		"vite": "^3.0.7"
+	}
+}
