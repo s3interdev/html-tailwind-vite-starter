@@ -10,21 +10,29 @@ Tailwind CSS is set up and configured with Vite.JS - a rapid development tool fo
 
 1. Clone the repository
 
-`git clone {{ git repository }} {{ working project folder }}`
+```
+git clone {{ git repository }} {{ working project folder }}
+```
 
 2. Open the project in Visual Studio Code
 
 3. Open a new terminal in Visual Studio Code and install the project dependencies
 
-`yarn` or `npm install`
+```
+yarn
+```
 
 4. Run the project using the Vite.JS server
 
-`yarn dev` or `npm run dev`
+```
+yarn dev
+```
 
 5. Optimize for production
 
-`yarn build` or `npm run build`
+```
+yarn build
+```
 
 ## Technologies Used
 
